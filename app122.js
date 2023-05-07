@@ -1,0 +1,3 @@
+var num=[2,3,4,5,6,7,8,9];
+var mul=num.map((value)=>value*3);
+console.log(mul);
